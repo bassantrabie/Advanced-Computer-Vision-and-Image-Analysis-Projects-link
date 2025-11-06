@@ -7,7 +7,7 @@ Each project focuses on a specific algorithm or concept to deepen understanding 
 
 ## Projects
 
-1. **[Segmentation and Threshold Techniques]([https://github.com/YourUsername/Segmentation-Project](https://github.com/bassantrabie/Segmentor_and_Threshold))**  
+1. **[Segmentation and Threshold Techniques](https://github.com/bassantrabie/Segmentor_and_Threshold)**  
    Explores classical and modern segmentation methods including thresholding and clustering-based techniques (Otsu, Optimal, Spectral, K-Means, Region Growing, Mean-Shift, Agglomerative.
 
 2. **[Face Recognition](https://github.com/YourUsername/Thresholding-Project)**  
