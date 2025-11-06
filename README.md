@@ -1,33 +1,33 @@
-# 🧠 Computer Vision Projects
+# Computer Vision Projects
 
 This repository showcases a collection of **computer vision tasks** exploring techniques like **segmentation, thresholding, face recognition, and image processing**.  
 Each project focuses on a specific algorithm or concept to deepen understanding of how computer vision techniques are applied in practice.
 
 ---
 
-## 📂 Projects
+## Projects
 
-1. **[Segmentation Techniques](https://github.com/YourUsername/Segmentation-Project)**  
-   Classical and advanced segmentation methods including K-means, Region Growing, and Mean Shift.
+1. **[Segmentation and Threshold Techniques]([https://github.com/YourUsername/Segmentation-Project](https://github.com/bassantrabie/Segmentor_and_Threshold))**  
+   Explores classical and modern segmentation methods including thresholding and clustering-based techniques (Otsu, Optimal, Spectral, K-Means, Region Growing, Mean-Shift, Agglomerative.
 
-2. **[Thresholding Methods](https://github.com/YourUsername/Thresholding-Project)**  
-   Comparison between Global, Otsu, and Local thresholding techniques for grayscale and medical images.
+2. **[Face Recognition](https://github.com/YourUsername/Thresholding-Project)**  
+   Builds a facial recognition system using classical computer vision techniques — including Haar-based detection, PCA for feature extraction, and KNN classification with ROC curve evaluation.
 
-3. **[Face Recognition System](https://github.com/YourUsername/Face-Recognition-Project)**  
-   Real-time face detection and recognition using OpenCV and deep learning-based models.
+3. **[Hough Transform & Active Contour](https://github.com/YourUsername/Face-Recognition-Project)**  
+   Implements Canny, Hough (lines, circles, ellipses), and Active Contour (Snake) methods — built from scratch to detect, analyze, and report object boundaries with detailed shape descriptors.
 
-4. **[Hough Transform & Edge Detection](https://github.com/YourUsername/Hough-Transform-Project)**  
-   Detection of lines, circles, and edges using Hough and Canny algorithms.
+4. **[Image Processor](https://github.com/YourUsername/Hough-Transform-Project)**  
+   A full-featured image processor supporting noise addition, filtering, edge detection, histogram equalization, normalization, thresholding, and Fourier-based frequency filtering.
 
-5. **[Active Contour Image Processor](https://github.com/YourUsername/Active-Contour-Project)**  
-   Implementation of snake contour models for precise object boundary extraction.
+5. **[Object Detection](https://github.com/YourUsername/Active-Contour-Project)**  
+   Implements Harris corner detection, SIFT feature extraction, and SSD/NCC-based feature matching — covering keypoint detection, descriptor generation, and robust correspondence analysis between images.
 
 ---
 
-## 🧰 Tech Overview
+## Tech Overview
 All projects are implemented in **Python** using **OpenCV**, **NumPy**, and related libraries — focusing on clarity, performance, and visualization.
 
 ---
 
-### 💡 Purpose
+### Purpose
 This collection serves as a practical reference for exploring core computer vision methods — from basic image preprocessing to advanced segmentation and contour modeling.
